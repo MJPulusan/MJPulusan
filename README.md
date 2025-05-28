@@ -22,8 +22,9 @@ Most recently, I built SpecKids, a full-stack capstone app supporting kids with 
 
 I'm passionate about solving real-world problems with clean code, smart design, and a user-first mindset.
 
-📫 How to reach me:
-Michael John Pulusan
-email: mjpulusan@yahoo.com
+
+📫 How to reach me:<br>
+Michael John Pulusan<br>
+email: mjpulusan@yahoo.com<br>
 LinkedIn | GitHub
 
