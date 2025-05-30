@@ -28,14 +28,14 @@ I'm passionate about solving real-world problems with clean code, smart design, 
 
 Languages & Frameworks: React, TypeScript, JavaScript, Node.js, Express, PostgreSQL, HTML/CSS<br>
 Tools & Platforms: Vite, Tailwind, Git, GitHub, VSCode<br>
-Learning & Exploring: AI integration (OpenAI API), data visualization, Python
+Learning & Exploring: AI integration (OpenAI API), Data visualization
 
 **🛠️ Projects**
 --
 
 Check out some of my recent work:
 
-**SpecKids** – a full-stack capstone app supporting kids with spectrum conditions through screen-time management, therapy schedules, and creative tools—all in a playful, accessible interface.
+**SpecKids** – a full-stack capstone app supporting kids with spectrum conditions through screen-time management, therapy schedules, and creative tools—all in a playful, accessible interface.<br>
 **NatParks** - a front-end project that showcase all the National Parks in the Western coast of the United States. User can add parks into favorites and remove parks based on their liking.
 
 
